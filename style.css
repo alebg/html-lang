@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin: 50px;
+
+    h1 {
+        font-size: 1.3em;        
+        margin-bottom: 20px;
+    }
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+select {
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1em;
+}
