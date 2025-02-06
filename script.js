@@ -1,7 +1,7 @@
 const translations = {
     en: {
         home: {
-            title: "Revolutionizing the Future of Work",
+            title: "JustDoAd",
             description: "Welcome to our platform, where innovation meets efficiency. Our cutting-edge solutions empower businesses to streamline operations, enhance productivity, and foster collaboration. Whether you're a startup or an enterprise, we provide the tools you need to succeed in the digital age. Join us and redefine the way you work!"
         }
     },
